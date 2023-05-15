@@ -13,4 +13,4 @@ objeto = {
 
 objeto.processamento() // foco passsou a ser o objeto 
 
- 
+    
